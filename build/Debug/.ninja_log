@@ -1,0 +1,12 @@
+# ninja log v5
+94	374	7008271492748686	CMakeFiles/Blink.dir/Core/Startup/startup_stm32f401retx.s.obj	3c27af35f60cd86d
+75	945	7008271498356959	CMakeFiles/Blink.dir/Core/Src/sysmem.c.obj	1efcf6c34afd47a3
+60	966	7008271498689420	CMakeFiles/Blink.dir/Core/Src/syscalls.c.obj	7c696fddcd7df1c
+88	1029	7008271499171472	CMakeFiles/Blink.dir/Core/Src/system_stm32f4xx.c.obj	1311335ed7fac1f0
+43	1044	7008271499171472	CMakeFiles/Blink.dir/Core/Src/stm32f4xx_it.c.obj	e3301d45bb843a4d
+13	1063	7008271499663269	CMakeFiles/Blink.dir/Core/Src/main.c.obj	4ae832ac8ccf437e
+123	1074	7008271499738388	CMakeFiles/Blink.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_rcc.c.obj	28926bae0be23c0
+106	1082	7008271499818468	CMakeFiles/Blink.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_exti.c.obj	158fdbfac19b2da2
+116	1085	7008271499818468	CMakeFiles/Blink.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_gpio.c.obj	d58d0a7b45848559
+132	1106	7008271500142915	CMakeFiles/Blink.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_utils.c.obj	10cc63b03614d4f4
+1106	1934	7008271506587035	Blink.elf	623da49419810248
